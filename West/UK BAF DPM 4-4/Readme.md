@@ -8,7 +8,7 @@ WEST | UK 4-4
 - CUP
 - ACE3
 
-##### Flags:
+##### Notes:
 - Randomized gear
 - Random kit
 - Night Items
