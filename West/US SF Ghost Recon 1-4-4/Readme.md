@@ -8,7 +8,7 @@ WEST | US 1-4-4
 - TRYK
 - ACE3
 
-##### Flags:
+##### Notes:
 - Randomized gear
 - Night Items
 - 'par_silencer' dependand weapon attachments
