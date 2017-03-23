@@ -8,3 +8,6 @@ Collection of dzn_gear kits
 
 ### Irregulars
 - [European Insurgents](https://github.com/reptiloids/Gear_Kits_Collection/tree/master/Irregulars/European%20Insurgents)
+
+### Civilians
+- [European Civilians](https://github.com/reptiloids/Gear_Kits_Collection/tree/master/Civilians/European%20Civilians)
