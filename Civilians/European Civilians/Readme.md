@@ -7,7 +7,6 @@ CIV | NPC
 - CUP
 
 ##### Notes:
-- Random kit
 - Randomized gear
 
 ##### Revision 1
