@@ -13,6 +13,8 @@
 
 // ******** ASSIGNED and UNIFORM ITEMS MACRO ********
 #define NVG_NIGHT_ITEM		if (daytime < 9 || daytime > 18) then { "NVGoggles_OPFOR" } else { "" }
+#define SC_NIGHT_ITEM		if (daytime < 9 || daytime > 18) then { "rhsusf_acc_premier_anpvs27" } else { "rhsusf_acc_premier" }
+
 #define BINOCULAR_ITEM		"Binocular"
 
 #define ASSIGNED_ITEMS		"ItemMap","ItemCompass","ItemWatch","ItemRadio", NVG_NIGHT_ITEM
@@ -96,7 +98,7 @@
 
 	kit_fin_sn = [
 		["<EQUIPEMENT >>  ",fin_uni,fin_vest_sn,fin_back,fin_head,fin_face],
-		["<PRIMARY WEAPON >>  ","rhs_weap_m40a5","rhsusf_10Rnd_762x51_m118_special_Mag",["","acc_pointer_IR","optic_LRPS",""]],
+		["<PRIMARY WEAPON >>  ","rhs_weap_m40a5","rhsusf_10Rnd_762x51_m118_special_Mag",["","acc_pointer_IR",SC_NIGHT_ITEM,""]],
 		["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 		["<HANDGUN WEAPON >>  ","CUP_hgun_Duty","16Rnd_9x21_Mag",["","","",""]],
 		["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_SN],
