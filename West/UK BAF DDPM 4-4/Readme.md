@@ -12,5 +12,6 @@ WEST | UK 4-4
 - Randomized gear
 - Random kit
 - Night Items
+- Cargo kit
 
 ##### Revision 1
