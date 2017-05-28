@@ -1,7 +1,7 @@
-### US Special Forces (Green) 1-4-4  ([KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/West/US%20Army%20OCP%201-4-4/Kit%20US%20Army%20OCP.sqf))
+### US Special Forces (Green) 1-4-4  ([KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/West/US%20SF%20Green%201-4-4/Kit%20US%20SF%20Green%201-4-4.sqf))
 WEST | US 1-4-4 
 <br />
-<img src="https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/West/US%20Army%20OCP%201-4-4/usocp_overview.jpg" />
+<img src="https://github.com/rempopo/Gear_Kits_Collection/blob/master/West/US%20SF%20Green%201-4-4/ussf_overview.jpg?raw=true" />
 
 ##### Mods:
 - RHS
