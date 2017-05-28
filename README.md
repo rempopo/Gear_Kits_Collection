@@ -2,6 +2,7 @@
 Collection of dzn_gear kits
 
 ### WEST
+- [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/West/US%20Army%20OCP%201-4-4/Kit%20US%20Army%20OCP.sqf)] [US Army OCP (1-4-4)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/West/US%20Army%20OCP%201-4-4)
 - [[KitLink](https://raw.githubusercontent.com/reptiloids/Gear_Kits_Collection/master/West/US%20SF%20Ghost%20Recon%201-4-4/Kits%20US%20SF%20Ghost%20Recon%201-4-4.sqf)] [US SF Ghost Recon (1-4-4)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/West/US%20SF%20Ghost%20Recon%201-4-4)
 - [[KitLink](https://raw.githubusercontent.com/reptiloids/Gear_Kits_Collection/master/West/UK%20BAF%20DPM%204-4/Kit%20BAF%20DPM%204-4.sqf)] [UK BAF DPM (4-4)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/West/UK%20BAF%20DPM%204-4)
 - [[KitLink](https://raw.githubusercontent.com/reptiloids/Gear_Kits_Collection/master/West/UK%20BAF%20DPM%204-4/Kit%20BAF%20DPM%204-4.sqf)] [UK BAF DDPM (4-4)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/West/UK%20BAF%20DDPM%204-4)
