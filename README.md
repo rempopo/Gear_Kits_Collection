@@ -12,9 +12,12 @@ Collection of dzn_gear kits
 
 ### EAST
 - [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/Takistan%20Armed%20Forces%204-3-2/Kit%20TAF%204-3-2.sqf)] [Takistan Armed Forces (4-3-2)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/East/Takistan%20Armed%20Forces%204-3-2)
+- [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/Syrian%20Arab%20Army/Kit%20Syrian%20Arab%20Army.sqf)] [Syrian Arab Army (4-3-2)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/East/Syrian%20Arab%20Army)
 
 ### Irregulars
 - [[KitLink](https://raw.githubusercontent.com/reptiloids/Gear_Kits_Collection/master/Irregulars/European%20Insurgents/Kits%20European%20Irregulars.sqf)] [European Insurgents](https://github.com/rempopo/Gear_Kits_Collection/tree/master/Irregulars/European%20Insurgents)
+- [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/Irregulars/Jihadist%20Paramilitary/Kits%20Jihadist%20Paramilitary.sqf)] [Jihadist Paramilitary](https://github.com/rempopo/Gear_Kits_Collection/tree/master/Irregulars/Jihadist%20Paramilitary)
+
 
 ### Civilians
 - [[KitLink](https://raw.githubusercontent.com/reptiloids/Gear_Kits_Collection/master/Civilians/European%20Civilians/Kits%20European%20Civilians.sqf)] [European Civilians](https://github.com/rempopo/Gear_Kits_Collection/tree/master/Civilians/European%20Civilians)
