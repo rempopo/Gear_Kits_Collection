@@ -4,9 +4,13 @@ IRREGULARS | NATO 1-4-4
 <img src="https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/Irregulars/Private%20Military%20Company/Overview.png" />
 
 ##### Mods:
-- 
+- RHS 
+- CUP 
+- TRYK 
+- ACE
 
 ##### Notes:
-- 
+- Randomized gear
+- Cargo kit
 
 ##### Revision 1
