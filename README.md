@@ -15,7 +15,7 @@ Collection of dzn_gear kits
 - [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/Syrian%20Arab%20Army/Kit%20Syrian%20Arab%20Army.sqf)] [Syrian Arab Army (4-3-2)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/East/Syrian%20Arab%20Army)
 
 ### Irregulars
-- [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/Irregulars/Private%20Military%20Company/Kits_PMC.sqf)][Private Military Company](https://github.com/rempopo/Gear_Kits_Collection/tree/master/Irregulars/Private%20Military%20Company)
+- [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/Irregulars/Private%20Military%20Company/Kits_PMC.sqf)] [Private Military Company](https://github.com/rempopo/Gear_Kits_Collection/tree/master/Irregulars/Private%20Military%20Company)
 - [[KitLink](https://raw.githubusercontent.com/reptiloids/Gear_Kits_Collection/master/Irregulars/European%20Insurgents/Kits%20European%20Irregulars.sqf)] [European Insurgents](https://github.com/rempopo/Gear_Kits_Collection/tree/master/Irregulars/European%20Insurgents)
 - [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/Irregulars/Jihadist%20Paramilitary/Kits%20Jihadist%20Paramilitary.sqf)] [Jihadist Paramilitary](https://github.com/rempopo/Gear_Kits_Collection/tree/master/Irregulars/Jihadist%20Paramilitary)
 
