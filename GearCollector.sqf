@@ -100,7 +100,7 @@ player addAction ["<t color='#96ff51'>Create Scene</t>", { [] spawn dzn_fnc_GC_S
 player addAction ["<t color='#ff6b51'>Cancel Scene</t>", { [] spawn dzn_fnc_GC_CancelScene; }];
 player addAction ["<t color='#3d6854'>Increase Font</t>", { GC_TextSize = GC_TextSize + 0.05; systemChat format ["Font size increased: %1", GC_TextSize]; }];
 player addAction ["<t color='#3d6854'>Decrease Font</t>", { GC_TextSize = GC_TextSize - 0.05; systemChat format ["Font size decreased: %1", GC_TextSize];}];
-
+player addAction ["<t color='#6bf9b7'>Disable anim</t>", { GC_KeepAnim = false; }];
 player addAction ["<t color='#63bae2'>### Recompile script</t>", { [] execVM "GearCollector.sqf"; }];
 
 /*
