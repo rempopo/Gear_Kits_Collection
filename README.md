@@ -1,4 +1,4 @@
-# Gear_Kits_Collection
+# Gear Kits Collection
 Collection of dzn_gear kits
 
 ### WEST
