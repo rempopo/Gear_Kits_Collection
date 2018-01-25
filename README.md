@@ -13,7 +13,7 @@ Collection of dzn_gear kits
 ### EAST
 - [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/Takistan%20Armed%20Forces%204-3-2/Kit%20TAF%204-3-2.sqf)] [Takistan Armed Forces (4-3-2)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/East/Takistan%20Armed%20Forces%204-3-2)
 - [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/Syrian%20Arab%20Army/Kit%20Syrian%20Arab%20Army.sqf)] [Syrian Arab Army (4-3-2)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/East/Syrian%20Arab%20Army)
-
+- [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/USSR%20VDV%20Afghanistan%20Early%2080s/kit%20USSR%20VDV%2080s.sqf)] [USSR VDV Afghanistan Early 80s (4-3-2)](https://github.com/rempopo/Gear_Kits_Collection/tree/master/East/USSR%20VDV%20Afghanistan%20Early%2080s)
 ### Irregulars
 - [[KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/Irregulars/Private%20Military%20Company/Kits_PMC.sqf)] [Private Military Company](https://github.com/rempopo/Gear_Kits_Collection/tree/master/Irregulars/Private%20Military%20Company)
 - [[KitLink](https://raw.githubusercontent.com/reptiloids/Gear_Kits_Collection/master/Irregulars/European%20Insurgents/Kits%20European%20Irregulars.sqf)] [European Insurgents](https://github.com/rempopo/Gear_Kits_Collection/tree/master/Irregulars/European%20Insurgents)
