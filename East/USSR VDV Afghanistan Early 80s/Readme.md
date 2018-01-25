@@ -7,7 +7,7 @@ EAST | USSR VDV 4-3-2 Or 2-4-3
 - RHS
 - CUP
 - ACE3
-
+- 345th SGVAR
 ##### Notes:
 - No SR radios
 - R-148 LR radios for PL and SL
