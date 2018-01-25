@@ -49,10 +49,11 @@ GC_Positions = [
 	
 	/* 2nd Fireteam */
 	, [157.874,5.37745,6.20306]
-	, [201.769,17.2423,225.485]
+	, [180.769,6.2423,6.2]
 	, [151.509,6.19286,6.20306]
 	, [147.421,6.99411,6.20306]
 ];
+
 
 dzn_fnc_GC_SpawnScene = {
 	waitUntil { !isNil "dzn_gear_serverInitDone" };
