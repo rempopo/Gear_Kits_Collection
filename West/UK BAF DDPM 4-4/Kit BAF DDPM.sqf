@@ -1,5 +1,5 @@
 /*
-	UK BAF DPM
+	UK BAF DDPM
 */
 
 #define NVG_NIGHT_ITEM	if (daytime < 9 || daytime > 18) then { "NVGoggles_OPFOR" } else { "" }
@@ -13,20 +13,20 @@
 
 
 
-kit_ukbaf_random = [
-	"kit_ukbaf_ftl"
-	, "kit_ukbaf_ar"
-	, "kit_ukbaf_g", "kit_ukbaf_g"
-	, "kit_ukbaf_r", "kit_ukbaf_r"
+kit_ukafd_random = [
+	"kit_ukafd_ftl"
+	, "kit_ukafd_ar"
+	, "kit_ukafd_g", "kit_ukafd_g"
+	, "kit_ukafd_r", "kit_ukafd_r"
 ];
 
 #define	ukbaf_UNI		["CUP_U_B_BAF_DDPM_S1_RolledUp","CUP_U_B_BAF_DDPM_Tshirt"]
-#define	ukbaf_HEAD		["CUP_H_BAF_Helmet_3_DDPM","CUP_H_BAF_Helmet_1_DDPM","CUP_H_BAF_Helmet_Net_2_DDPM","CUP_H_BAF_Helmet_2_DDPM","CUP_H_BAF_Helmet_4_DDPM","CUP_H_BAF_Crew_Helmet_DDPM"]
+#define	ukbaf_HEAD		["CUP_H_BAF_Helmet_Net_2_DDPM","CUP_H_BAF_Helmet_3_DDPM","CUP_H_PMC_Cap_PRR_Grey","CUP_H_PMC_Cap_EP_Grey"]
 #define	ukbaf_FACE		["","","","","G_Bandanna_khk"]
 
-kit_ukbaf_pl =
+kit_ukafd_pl =
 	[
-	["<EQUIPEMENT >>  ",ukbaf_UNI,"CUP_V_BAF_Osprey_Mk2_DDPM_Officer","","CUP_H_BAF_Officer_Beret",""],
+	["<EQUIPEMENT >>  ",ukbaf_UNI,"CUP_V_BAF_Osprey_Mk2_DDPM_Soldier2","","CUP_H_BAF_Officer_Beret",""],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_L85A2_G","30Rnd_556x45_Stanag",["","rhsusf_acc_anpeq15_bk_top","rhsusf_acc_SpecterDR_A",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
@@ -36,7 +36,7 @@ kit_ukbaf_pl =
 	["<BACKPACK ITEMS >> ",[]]
 ];
 
-kit_ukbaf_sl =
+kit_ukafd_sl =
 	[
 	["<EQUIPEMENT >>  ",ukbaf_UNI,"CUP_V_BAF_Osprey_Mk2_DDPM_Soldier2","",ukbaf_HEAD,ukbaf_FACE],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_L85A2_G","30Rnd_556x45_Stanag",["","rhsusf_acc_anpeq15_bk_top","rhsusf_acc_SpecterDR_A",""]],
@@ -48,9 +48,9 @@ kit_ukbaf_sl =
 	["<BACKPACK ITEMS >> ",[]]
 ];
 
-kit_ukbaf_2ic =
+kit_ukafd_ftl =
 	[
-	["<EQUIPEMENT >>  ",ukbaf_UNI,"CUP_V_BAF_Osprey_Mk2_DDPM_Grenadier","",ukbaf_HEAD,ukbaf_FACE],
+	["<EQUIPEMENT >>  ",ukbaf_UNI,"CUP_V_BAF_Osprey_Mk4_MTP_Rifleman","",ukbaf_HEAD,ukbaf_FACE],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_L85A2_GL","30Rnd_556x45_Stanag",["","rhsusf_acc_anpeq15_bk_top","rhsusf_acc_SpecterDR_A",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
@@ -60,7 +60,7 @@ kit_ukbaf_2ic =
 	["<BACKPACK ITEMS >> ",[]]
 ];
 
-kit_ukbaf_ar =
+kit_ukafd_ar =
 	[
 	["<EQUIPEMENT >>  ",ukbaf_UNI,"CUP_V_BAF_Osprey_Mk4_MTP_MachineGunner","",ukbaf_HEAD,ukbaf_FACE],
 	["<PRIMARY WEAPON >>  ","CUP_lmg_L110A1","CUP_200Rnd_TE4_Red_Tracer_556x45_M249",["","rhsusf_acc_anpeq15side_bk","rhsusf_acc_SpecterDR_A",""]],
@@ -72,7 +72,7 @@ kit_ukbaf_ar =
 	["<BACKPACK ITEMS >> ",[]]
 ];
 
-kit_ukbaf_gr =
+kit_ukafd_g =
 	[
 	["<EQUIPEMENT >>  ",ukbaf_UNI,"CUP_V_BAF_Osprey_Mk2_DDPM_Grenadier","",ukbaf_HEAD,ukbaf_FACE],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_L85A2_GL","30Rnd_556x45_Stanag",["","rhsusf_acc_anpeq15side_bk","rhsusf_acc_eotech_xps3",""]],
@@ -84,9 +84,9 @@ kit_ukbaf_gr =
 	["<BACKPACK ITEMS >> ",[]]
 ];
 
-kit_ukbaf_r =
+kit_ukafd_r =
 	[
-	["<EQUIPEMENT >>  ",ukbaf_UNI,"CUP_V_BAF_Osprey_Mk2_DDPM_Soldier2","B_AssaultPack_cbr",ukbaf_HEAD,ukbaf_FACE],
+	["<EQUIPEMENT >>  ",ukbaf_UNI,["CUP_V_BAF_Osprey_Mk2_DDPM_Soldier1","CUP_V_BAF_Osprey_Mk4_MTP_Rifleman"],"B_AssaultPack_mcamo",ukbaf_HEAD,ukbaf_FACE],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_L85A2_G","30Rnd_556x45_Stanag",["","rhsusf_acc_anpeq15side_bk","rhsusf_acc_eotech_xps3",""]],
 	["<LAUNCHER WEAPON >>  ","rhs_weap_M136_hedp","rhs_m136_hedp_mag",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
@@ -96,27 +96,15 @@ kit_ukbaf_r =
 	["<BACKPACK ITEMS >> ",[["CUP_200Rnd_TE4_Red_Tracer_556x45_M249",3]]]
 ];
 
-kit_ukbaf_crew = [
-	["<EQUIPEMENT >>  ","CUP_U_B_BAF_DDPM_Tshirt","CUP_V_BAF_Osprey_Mk2_DDPM_Crewman","","CUP_H_USMC_ACVC_DES",""],
-	["<PRIMARY WEAPON >>  ","CUP_arifle_L85A2_NG","CUP_30Rnd_556x45_Stanag",["","","",""]],
-	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+
+kit_ukafd_at = [
+	["<EQUIPEMENT >>  ",ukbaf_UNI,["CUP_V_BAF_Osprey_Mk2_DDPM_Soldier1","CUP_V_BAF_Osprey_Mk4_MTP_Rifleman"],"B_AssaultPack_mcamo",ukbaf_HEAD,ukbaf_FACE],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_L85A2_G","30Rnd_556x45_Stanag",["","rhsusf_acc_anpeq15side_bk","rhsusf_acc_eotech_xps3",""]],
+	["<LAUNCHER WEAPON >>  ","rhs_weap_maaws","rhs_mag_maaws_HEAT",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
-	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["rhs_mag_an_m8hc",2],["HandGrenade",2],["30Rnd_556x45_Stanag",5]]],
-	["<BACKPACK ITEMS >> ",[]]
+	["<UNIFORM ITEMS >> ", [ UNIFORM_ITEMS ]],
+	["<VEST ITEMS >> ",[["PRIMARY MAG",10],["rhs_mag_an_m8hc",2],["HandGrenade",2]]],
+	["<BACKPACK ITEMS >> ",[["SECONDARY MAG",2]]]
 ];
 
-kit_ukbaf_vehicle = [
-	[["rhs_weap_M136_hedp",2],["CUP_launch_NLAW",1]],
-	[["HandGrenade",10],["30Rnd_556x45_Stanag",16],["rhs_mag_an_m8hc",6],["CUP_200Rnd_TE4_Red_Tracer_556x45_M249",6],["1Rnd_HE_Grenade_shell",16]],
-	[["ACE_fieldDressing",10],["ACE_packingBandage",10],["ACE_elasticBandage",10],["ACE_tourniquet",5]],
-	[]
-];
-
-kit_ukbaf_vehicle_light = [
-	[["rhs_weap_M136_hedp",2]],
-	[["HandGrenade",10],["30Rnd_556x45_Stanag",12],["rhs_mag_an_m8hc",6],["CUP_200Rnd_TE4_Red_Tracer_556x45_M249",5],["1Rnd_HE_Grenade_shell",16]],
-	[["ACE_fieldDressing",10],["ACE_packingBandage",10],["ACE_elasticBandage",10],["ACE_tourniquet",5]],
-	[]
-];
