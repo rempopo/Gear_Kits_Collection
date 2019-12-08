@@ -1,0 +1,19 @@
+Russian MP in Syria 4-3 ([KitLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/Russian%20MP%20in%20Syria%204-3/Kit%20Russian%20MP%20in%20Syria%204-3.sqf))
+EAST | RU 4-3
+
+<br />
+<img src="" />
+
+##### Mods:
+- ACE3
+- CUP
+- RHS
+- TRYK
+
+##### Notes:
+- Randomized gear
+- Random kit
+- Night Items
+- Cargo kit
+
+##### Revision 1
