@@ -1,4 +1,4 @@
-### German Islamioc Insurgents (non-playable)  ([RawLink](https://raw.githubusercontent.com/reptiloids/Gear_Kits_Collection/master/Irregulars/German%20Islamic%20Insurgents/Kit%20German%20Islamic%20Insurgents.sqf))
+### German Islamioc Insurgents (non-playable)  ([RawLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/Irregulars/German%20Islamic%20Insurgents/Kits%20German%20Islamic%20Insurgents.sqf))
 IRREGULARS | NPC
 <br />
 <img src="" />

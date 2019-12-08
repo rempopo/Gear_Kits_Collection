@@ -1,4 +1,4 @@
-### USSR Soviet Army Motorized infantry 80s (non-playable)  ([RawLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/USSR%20SA%20Motorized%20NPC/Kit%20USSR%20SA%20Motorized%20NPC.sqf))
+### USSR Soviet Army Motorized infantry 80s (non-playable)  ([RawLink](https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/USSR%20SA%20Motorized%20NPC/Kits%20USSR%20SA%20Motorized%20NPC.sqf))
 EAST | NPC
 <br />
 <img src="" />
