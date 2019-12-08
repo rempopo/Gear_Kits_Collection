@@ -2,7 +2,8 @@
 EAST | RU 4-3
 
 <br />
-<img src="" />
+<img src="https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/Russian%20MP%20in%20Syria%204-3/overview_1.jpg" />
+<img src="https://raw.githubusercontent.com/rempopo/Gear_Kits_Collection/master/East/Russian%20MP%20in%20Syria%204-3/overview_2.jpg" />
 
 ##### Mods:
 - ACE3
